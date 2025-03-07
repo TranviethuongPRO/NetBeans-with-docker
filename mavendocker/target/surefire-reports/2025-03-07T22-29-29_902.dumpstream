@@ -1,0 +1,5 @@
+# Created at 2025-03-07T22:29:30.085
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Temp\java\mavendocker\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
